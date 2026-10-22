@@ -1,4 +1,6 @@
-# Análise Financeira e de Vendas com Power BI
+#  Análise Financeira e de Vendas com Power BI
+
+
 
 ##  Sobre o projeto
 
@@ -63,3 +65,15 @@ Desafio prático realizado na plataforma **DIO — Digital Innovation One**, dur
 ---
 
 **Projeto desenvolvido para fins educacionais e de aprimoramento profissional.**
+
+
+## 📸 Visualização dos Dashboards
+
+### Dashboard 1 — Vendas por Produtos e Segmentos
+![Dashboard de vendas por produtos e segmentos](imagens/Slide2.PNG)
+
+### Dashboard 2 — Vendas por Países e Lucro
+![Dashboard de vendas por países e lucro](imagens/Slide3.PNG)
+
+### Dashboard 3 — Análise Geográfica e Lucro
+![Dashboard de análise geográfica e lucro](imagens/Slide4.PNG)
